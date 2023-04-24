@@ -168,4 +168,4 @@ These are just a few of the many methods available in the String class. By study
 
 If you want to explore more Strings methods, click on the link below.
 
-https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
+<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/String.html" target="_blank">String Methods</a>
